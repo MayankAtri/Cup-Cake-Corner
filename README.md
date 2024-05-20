@@ -18,7 +18,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/CupcakeCorner.git](https://github.com/MayankAtri/Cup-Cake-Corner.git
+git clone https://github.com/MayankAtri/Cup-Cake-Corner.git
 Open the project in Xcode:
 bash
 Copy code
